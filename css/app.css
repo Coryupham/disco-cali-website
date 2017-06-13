@@ -1,13 +1,13 @@
-.h1
+.full
 {
-
-  font-family: "helvetica";
-  font-size: 30em;
-
+  
+  height:100%;
+  
 }
-.h2
-{
-    font-family: "helvetica";
-    font-size: 12;
 
+#landing
+{
+  
+  background-image:"../img/WebsiteHead.png";
+  
 }
