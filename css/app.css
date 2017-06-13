@@ -17,6 +17,6 @@
   
   height: 700px;
   width: 700px;
-  background-image:"/IMG/WebsiteHead.png";
+  background-image:url("/IMG/WebsiteHead.png");
   
 }
