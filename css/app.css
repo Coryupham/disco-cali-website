@@ -51,6 +51,18 @@
   
 }
 
+#pano
+{
+  
+  top: 400px;
+  height: 300px;
+  background-image:url("../IMG/pano.jpg");
+  background-size:1000px 300px;
+  background-repeat: no-repeat;
+  background-position: center;
+  
+}
+
 .h2
 {
 
