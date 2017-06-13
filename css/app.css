@@ -16,7 +16,8 @@
 {
   
   height: 700px;
-  width: 700px;
+  width: 100%;
+  background-color: #979797;
   background:url("../IMG/WebsiteHead.png");
   background-size:700px 700px;
   
