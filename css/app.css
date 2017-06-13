@@ -20,5 +20,7 @@
   background-color: #979797;
   background-image:url("../IMG/WebsiteHead.png");
   background-size:700px 700px;
+  background-repeat: no-repeat;
+  background-position: center;
   
 }
