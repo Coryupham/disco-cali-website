@@ -63,7 +63,7 @@
   width: 100vw;
   height: 20vh;
   background-image:url("../IMG/PANO.JPG");
-  background-size: contain;
+  background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
   
