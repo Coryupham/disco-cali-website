@@ -29,7 +29,8 @@
 {
   
   top: 400px;
-  height: 500px;
+  height: 30vh;
+  width: 30vh;
   -webkit-border-radius: 15vh;
   -moz-border-radius: 15vh;
   border-radius: 15vh;
