@@ -30,6 +30,13 @@
   
   top: 400px;
   height: 500px;
+  -webkit-border-radius: 15vh;
+  -moz-border-radius: 15vh;
+  border-radius: 15vh;
+  border-top: 1em double #979797;
+  border-left: 1em double #979797;
+  border-bottom: 1em solid #979797;
+  border-right: 1em solid #979797;
   background-image:url("../IMG/cory.jpg");
   background-size: 30vh;
   background-repeat: no-repeat;
