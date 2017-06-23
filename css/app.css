@@ -24,10 +24,11 @@
   
 }
 
-#ABOUT
+.h1
 {
   
   font-family: "Railway", sans-serif;
+  font-size: 24px;
   font-weight: 900;
   
 }
