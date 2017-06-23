@@ -18,32 +18,20 @@
   height: 100vh;
   width: 100%;
   background-image: url(../IMG/logo.svg);
-  background-size: 100vh;
-  background-repeat: no-repeat;
-  background-position: center;
-  
-}
-#contact
-{
-  
-  top:5000px;
-  height: 300px;
-  width: 100%;
-  background-color: #000000;
-  background-image:url("../IMG/contact.png");
-  background-size:1000px 300px;
+  background-size: 70vh;
   background-repeat: no-repeat;
   background-position: center;
   
 }
 
-  #ABOUTPIC1
+
+#ABOUTPIC1
 {
   
   top: 400px;
   height: 500px;
   background-image:url("../IMG/cory.jpg");
-  background-size:500px 500px;
+  background-size: 30vh;
   background-repeat: no-repeat;
   background-position: left;
   margin-left: 10px;
@@ -53,9 +41,23 @@
 #pano
 {
  
+  height: 20vh;
+  background-image:url("../IMG/PANO.jpg");
+  background-size: 100% 20vh;
+  background-repeat: no-repeat;
+  background-position: center;
+  
+}
+
+#contact
+{
+  
+  top:5000px;
   height: 300px;
-  background-image:url("../IMG/pano.jpg");
-  background-size: 100% 300px;
+  width: 100%;
+  background-color: #979797;
+  background-image:url("../IMG/contact.png");
+  background-size:1000px 300px;
   background-repeat: no-repeat;
   background-position: center;
   
