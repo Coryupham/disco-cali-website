@@ -33,6 +33,14 @@
   
 }
 
+.p
+{
+  
+  font-family: 'Playfair Display', serif;
+  font-size: 12px;
+  
+}
+
 .title-bar
 {
   
@@ -80,12 +88,4 @@
   background-repeat: no-repeat;
   background-position: center;
   
-}
-
-.h2
-{
-
-font-family:helvetica;
-font-size:5px;
-
 }
